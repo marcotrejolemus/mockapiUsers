@@ -1,65 +1,45 @@
 # mockapiUsers
+## 🚀 Cómo empezar una mock API
 🛠️ Cómo crear una API simulada en MockAPI.io
 Regístrate o inicia sesión
 
 Visita https://mockapi.io/ y crea una cuenta gratuita o inicia sesión si ya tienes una.
-
+## 
 Crea un nuevo proyecto
-
 Haz clic en el botón "New Project" (Nuevo Proyecto).
-
 Asigna un nombre a tu proyecto, por ejemplo, mockapiProducts, y haz clic en "Create" (Crear).
-
 Agrega un recurso (Resource)
-
 Dentro de tu proyecto, haz clic en "New Resource" (Nuevo Recurso).
-
 Nombra el recurso como products y define el esquema con los siguientes campos:
-
 name: tipo string
-
 description: tipo string
-
 price: tipo number
-
 category: tipo string
-
 image: tipo string (URL de la imagen)
-
 stock: tipo number
-
 Haz clic en "Create" (Crear) para guardar el recurso.
 
+##
 Genera datos simulados
-
 Una vez creado el recurso, haz clic en él para acceder a su vista de datos.
-
 Haz clic en el botón "Add" (Agregar) para añadir manualmente registros o utiliza la opción de generación automática para crear múltiples entradas con datos ficticios.
 
+##
 Accede a tu API
-
 MockAPI.io generará automáticamente endpoints RESTful para tu recurso. Por ejemplo:
-
 GET https://[tu_subdominio].mockapi.io/products – Obtener todos los productos
-
 POST https://[tu_subdominio].mockapi.io/products – Crear un nuevo producto
-
 GET https://[tu_subdominio].mockapi.io/products/{id} – Obtener un producto por ID
-
 PUT https://[tu_subdominio].mockapi.io/products/{id} – Actualizar un producto por ID
-
 DELETE https://[tu_subdominio].mockapi.io/products/{id} – Eliminar un producto por ID
 
+##
 Integra la API en tu aplicación
-
 Utiliza herramientas como fetch, axios, Postman o cualquier cliente HTTP para consumir los endpoints de tu API simulada en tus aplicaciones frontend o backend.
-
+##
 📘 Recursos adicionales
 Documentación oficial: https://docs.mockapi.io/
 
-Tutorial en video: Cómo crear una API simulada para eCommerce
-
-Project to Mock an API Rest catalog of Users
 
 # mockapiUsers
 
