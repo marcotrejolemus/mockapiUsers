@@ -59,7 +59,7 @@ Las imágenes de avatar están alojadas en la carpeta `/assets` del repositorio,
 
 ---
 
-### 📁 `db.json`
+### 📁 `db.json` Users
 
 ```json
 {
@@ -152,9 +152,11 @@ Las imágenes de avatar están alojadas en la carpeta `/assets` del repositorio,
 }
 
 
+```
 ---
----
-### 📁 `db.json` Productos
+
+### 📁 `db.json` Products
+
 
 ```json
 {
@@ -251,3 +253,4 @@ Las imágenes de avatar están alojadas en la carpeta `/assets` del repositorio,
     }
   ]
 }
+```
