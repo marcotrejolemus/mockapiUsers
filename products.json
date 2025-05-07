@@ -1,0 +1,98 @@
+{
+	"page": 1,
+	"per_page": 6,
+	"total": 10,
+	"total_pages": 2,
+	"products": [
+    {
+      "id": 1,
+      "name": "Wireless Mouse",
+      "description": "Ergonomic wireless mouse with adjustable DPI and silent click.",
+      "price": 19.99,
+      "category": "Accessories",
+      "image": "https://via.placeholder.com/150?text=Mouse",
+      "stock": 120
+    },
+    {
+      "id": 2,
+      "name": "Mechanical Keyboard",
+      "description": "RGB mechanical keyboard with blue switches and USB-C connectivity.",
+      "price": 59.99,
+      "category": "Accessories",
+      "image": "https://via.placeholder.com/150?text=Keyboard",
+      "stock": 80
+    },
+    {
+      "id": 3,
+      "name": "4K Monitor",
+      "description": "27-inch 4K UHD monitor with HDR10 support and HDMI/DisplayPort.",
+      "price": 279.99,
+      "category": "Monitors",
+      "image": "https://via.placeholder.com/150?text=Monitor",
+      "stock": 30
+    },
+    {
+      "id": 4,
+      "name": "Laptop Stand",
+      "description": "Adjustable aluminum stand compatible with laptops up to 17 inches.",
+      "price": 25.5,
+      "category": "Accessories",
+      "image": "https://via.placeholder.com/150?text=Stand",
+      "stock": 200
+    },
+    {
+      "id": 5,
+      "name": "USB-C Hub",
+      "description": "Multiport USB-C hub with HDMI, Ethernet, and 3 USB 3.0 ports.",
+      "price": 39.0,
+      "category": "Adapters",
+      "image": "https://via.placeholder.com/150?text=USB-C+Hub",
+      "stock": 150
+    },
+    {
+      "id": 6,
+      "name": "Bluetooth Headphones",
+      "description": "Over-ear headphones with noise cancellation and 20-hour battery life.",
+      "price": 79.99,
+      "category": "Audio",
+      "image": "https://via.placeholder.com/150?text=Headphones",
+      "stock": 60
+    },
+    {
+      "id": 7,
+      "name": "Webcam 1080p",
+      "description": "Full HD webcam with built-in microphone and auto light correction.",
+      "price": 45.0,
+      "category": "Cameras",
+      "image": "https://via.placeholder.com/150?text=Webcam",
+      "stock": 90
+    },
+    {
+      "id": 8,
+      "name": "Portable SSD 1TB",
+      "description": "Compact high-speed SSD with USB 3.2 interface and shock resistance.",
+      "price": 109.99,
+      "category": "Storage",
+      "image": "https://via.placeholder.com/150?text=SSD",
+      "stock": 40
+    },
+    {
+      "id": 9,
+      "name": "Gaming Chair",
+      "description": "Reclining ergonomic gaming chair with lumbar and neck support.",
+      "price": 199.0,
+      "category": "Furniture",
+      "image": "https://via.placeholder.com/150?text=Gaming+Chair",
+      "stock": 25
+    },
+    {
+      "id": 10,
+      "name": "Smartphone Holder",
+      "description": "360° rotating adjustable mount for smartphones with strong clamp.",
+      "price": 14.99,
+      "category": "Accessories",
+      "image": "https://via.placeholder.com/150?text=Phone+Holder",
+      "stock": 300
+    }
+  ]
+}
